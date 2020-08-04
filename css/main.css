@@ -5,6 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #f9f9ff;
+    margin: 30px;
 }
 
 .pokemon {
@@ -16,6 +17,7 @@ body {
     border-radius: 6px;
     border: 10px #2966FF solid;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+    display: none;
 }
 
 .number {
